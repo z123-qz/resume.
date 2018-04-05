@@ -115,7 +115,7 @@ body {
       list-style: disc; }
       .container .main .info-unit ul li h3 .link {
         font-size: .5rem;
-        border: 1px solid #4db6ac;
+        border: 1px solid #EEB422;
         padding: 1px 3px;
         -webkit-border-radius: 5px;
         border-radius: 5px;
@@ -167,7 +167,7 @@ aside {
     border-radius: 19px 0 0 10px;
     -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
-    background: #1abc9c; }
+    background: #EEB422; }
     aside ul li a {
       display: inline-block;
       width: 80px;
@@ -177,7 +177,7 @@ aside {
       color: #fff; }
 
 progress {
-  background-color: #f6f6f6;
+  background-color: #EEB422;
   display: inline;
   /*width: 195px;*/
   height: 1em; }
@@ -186,7 +186,7 @@ progress::-webkit-progress-bar {
   background-color: #e0eaf0; }
 
 progress::-webkit-progress-value {
-  background-color: #1abc9c; }
+  background-color: #EEB422; }
 
 progress::-moz-progress-bar {
   background-color: #e0eaf0; }
