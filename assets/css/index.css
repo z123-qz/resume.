@@ -27,7 +27,7 @@ body {
 
 /* -------------------------------------------------
  * 主体部分
- * ------------------------------------------------- */
+ * ------------------------------------------------- */  
 .container .side {
   position: absolute;
   width: 20rem;
@@ -88,9 +88,11 @@ body {
         -webkit-animation-delay: 0.8s; }
       .container .side .me .portrait img {
         display: none;
-        width: 8rem;
-        height: 8rem;
-        border-radius: 50%; }
+        border-radius: 50%;
+        height: 100%;
+        width: 100%;
+
+        }
   .container .side .info-unit ul li label {
     display: inline-block;
     width: 35%; }
