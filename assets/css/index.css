@@ -186,16 +186,16 @@ progress {
   height: 1em; }
 
 progress::-webkit-progress-bar {
-  background-color: #e0eaf0; }
+  background-color: #EEB422; }
 
 progress::-webkit-progress-value {
   background-color: #EEB422; }
 
 progress::-moz-progress-bar {
-  background-color: #e0eaf0; }
+  background-color: #EEB422; }
 
 progress::-moz-progress-value {
-  background-color: #708d9b; }
+  background-color: #EEB422; }
 
 .progress-list {
   line-height: 2; }
