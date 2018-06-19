@@ -180,19 +180,19 @@ aside {
       color: #fff; }
 
 progress {
-  background-color: #EEB422;
+  background-color: silver;
   display: inline;
   /*width: 195px;*/
   height: 1em; }
 
 progress::-webkit-progress-bar {
-  background-color: #EEB422; }
+  background-color: silver; }
 
 progress::-webkit-progress-value {
   background-color: #EEB422; }
 
 progress::-moz-progress-bar {
-  background-color: #EEB422; }
+  background-color: silver; }
 
 progress::-moz-progress-value {
   background-color: #EEB422; }
