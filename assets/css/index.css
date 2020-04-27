@@ -4,6 +4,7 @@
  * ------------------------------------------------- */
 body {
   background: #FFDEAD url(../../assets/images/background.png);
+
   width: 100%;
   overflow-x: hidden;
   padding: 1rem 10%;
@@ -152,6 +153,8 @@ body {
 
 h2 {
   font-size: 1.2em; }
+  
+.fade:hover {opacity: 0.5;}
 
 h3 {
   font-size: 1.1em; }
